@@ -1,5 +1,5 @@
 # Kaomoji Copy
-Type text and add kaomoji then copy it to clipboard.
+Type text and add kaomoji then copy it to clipboard. ٩(◕‿◕)۶
 
 ## Run Project
 
