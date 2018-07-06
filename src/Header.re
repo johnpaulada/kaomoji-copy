@@ -1,5 +1,5 @@
 let headerContainer = ReactDOMRe.Style.make(
-  ~width="100vw",
+  ~minWidth="100vw",
   ~height="10vh",
   ~backgroundColor="#333",
   ~backgroundSize="cover",

@@ -1,5 +1,6 @@
 let bodyContainer = ReactDOMRe.Style.make(
-  ~width="100vw",
+  ~width="auto",
+  ~display="inline-block",
   ~minHeight="100vh",
   ~backgroundColor="#FAFAFA",
   ()
