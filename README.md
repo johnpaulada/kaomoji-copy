@@ -3,6 +3,13 @@ Like Emoji Copy but for Kaomoji!
 
 [![Made with ReasonReact](https://img.shields.io/badge/Made%20with-ReasonReact-29B6F6.svg?longCache=true&style=for-the-badge)](https://reasonml.github.io/reason-react/en/)
 
+## Development
+1. Install [Yarn](https://yarnpkg.com).
+2. Run `npm install -g bs-platform`.
+3. Clone this repo and run `cd kaomoji-copy`.
+4. Run `yarn`.
+5. Run `yarn start`.
+
 ## License
 MIT
 
